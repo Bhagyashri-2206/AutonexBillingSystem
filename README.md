@@ -137,7 +137,8 @@ AutonexBillingSystem/
 <p align="center">
   <img src="screenshots/User Profile.png" width="80%">
 </p>
-## ⚙️ Installation and Setup
+
+### ⚙️ Installation and Setup
 
 ### Prerequisites
 
