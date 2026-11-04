@@ -93,6 +93,50 @@ AutonexBillingSystem/
 
 *Note: Adjust the folder names to match your actual project structure.*
 
+## 📸 Project Screenshots
+
+### 1. Registration Screen
+<p align="center">
+  <img src="Registration Screen.png" width="80%">
+</p>
+
+### 2. Login Screen
+<p align="center">
+  <img src="Login Screen.png" width="80%">
+</p>
+
+### 3. Dashboard
+<p align="center">
+  <img src="Dashboard.png" width="80%">
+</p>
+
+### 4. Generate Invoice
+
+<p align="center">
+  <img src="Bill Generation.png" width="80%">
+  <img src="Bill Generation1.png" width="80%">
+</p>
+
+### 5. Invoice History
+<p align="center">
+  <img src="History.png" width="80%">
+</p>
+
+### 6. Accepted Invoice
+<p align="center">
+  <img src="Accepted Invoice.png" width="80%">
+</p>
+
+### 7. Cancelled Invoice
+<p align="center">
+  <img src="Cancel Invoice.png" width="80%">
+</p>
+
+### 8. User Profile
+<!-- Add your profile screenshot here -->
+<p align="center">
+  <img src="User Profile.png" width="80%">
+</p>
 ## ⚙️ Installation and Setup
 
 ### Prerequisites
